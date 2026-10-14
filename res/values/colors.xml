@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A62F8</color>
+    <color name="colorPrimaryDark">#1E46B0</color>
+    <color name="colorAccent">#FF5252</color>
+    <color name="bg_light">#F5F7FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#222222</color>
+    <color name="text_secondary">#777777</color>
+    <color name="text_hint">#999999</color>
+    <color name="divider">#E2E8F0</color>
+    <color name="timeline_spine">#CBD5E1</color>
+    
+    <!-- 四象限经典配色 (重要紧急:红 / 重要不急:黄 / 紧急不重:蓝 / 不急不重:绿) -->
+    <color name="quad_bg_1">#FFDEDE</color>
+    <color name="quad_border_1">#FFB3B3</color>
+    <color name="quad_accent_1">#FF3300</color>
+    <color name="quad_title_1">#D9363E</color>
+
+    <color name="quad_bg_2">#FDF4C3</color>
+    <color name="quad_border_2">#FFE58A</color>
+    <color name="quad_accent_2">#E6A200</color>
+    <color name="quad_title_2">#B87400</color>
+
+    <color name="quad_bg_3">#CAEFFF</color>
+    <color name="quad_border_3">#94DFFF</color>
+    <color name="quad_accent_3">#0099FF</color>
+    <color name="quad_title_3">#096DD9</color>
+
+    <color name="quad_bg_4">#E0F4BE</color>
+    <color name="quad_border_4">#B1E592</color>
+    <color name="quad_accent_4">#669900</color>
+    <color name="quad_title_4">#389E0D</color>
+
+    <!-- 兼容别名 -->
+    <color name="quad_urgent_important">#FF3300</color>
+    <color name="quad_important">#E6A200</color>
+    <color name="quad_urgent">#0099FF</color>
+    <color name="quad_normal">#669900</color>
+
+    <!-- 便签卡片色 -->
+    <color name="note_card_bg">#FFFDE7</color>
+    <color name="note_card_border">#FFF59D</color>
+</resources>

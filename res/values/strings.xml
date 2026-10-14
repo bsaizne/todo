@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">高效Todo (纯净版)</string>
+    <string name="tab_quadrants">四象限</string>
+    <string name="tab_timeline">时间轴</string>
+    <string name="tab_tasks">清单</string>
+    <string name="tab_notes">备忘录</string>
+    <string name="add_task">新建待办</string>
+    <string name="add_note">新建备忘便签</string>
+    <string name="title_hint">待办事项内容</string>
+    <string name="desc_hint">详细备注说明（可选）</string>
+    <string name="note_hint">记录随手灵感、草稿与备忘...</string>
+    <string name="quad_name_1">重要且紧急</string>
+    <string name="quad_name_2">重要不紧急</string>
+    <string name="quad_name_3">紧急不重要</string>
+    <string name="quad_name_4">不重要不紧急</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="empty_quadrant">暂无任务\n点击上方加号快速添加</string>
+    <string name="empty_timeline">暂无时间轴待办\n添加待办时设置执行时间即可在此查看时间线</string>
+    <string name="empty_tasks">暂无待办任务，快去添加吧</string>
+    <string name="empty_notes">暂无便签备忘，点击上方按钮随手记录</string>
+</resources>

@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+*.apk
+*.idsig
+*.zip
+*.dex
+*.class
+*.tmp
+*.log
+
+# OS & IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
