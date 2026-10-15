@@ -2,10 +2,10 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Android%205.0%2B%20(API%2021%2B)-green.svg)](#)
-[![Size](https://img.shields.io/badge/APK%20Size-~51%20KB-brightgreen.svg)](#)
+[![Size](https://img.shields.io/badge/APK%20Size-~46%20KB-brightgreen.svg)](#)
 [![Network](https://img.shields.io/badge/Network-0%20Requests%20(Offline)-orange.svg)](#)
 
-一款极致轻量（安装包仅 **51 KB**）、极速冷启动、**100% 纯本地离线** 的专业时间管理与待办效率应用。
+一款极致轻量（安装包仅 **46 KB**）、极速冷启动、**100% 纯本地离线** 的专业时间管理与待办效率应用。
 
 项目旨在解决原版 Todo 应用体积臃肿（20MB+）、塞满各类第三方推送/定位/支付 SDK、频繁后台常驻与闪退崩溃的问题。通过原生轻量重构，还原了最经典的 **2×2 四象限法则矩阵** 与 **垂直时间轴**，并将 **便签备忘录** 彻底解耦独立，提供纯粹、专注、安全的时间管理体验。
 
